@@ -1,0 +1,39 @@
+Selected object: microwave oven
+
+The primary function of a microwave oven is to cook foodstuff.  The cooking 
+process is enabled by creating high frequency electromagnetic waves (actually, radio waves) that 
+- as they penetrate the food - 
+causes the food molecules to vibrate, which causes them to give off heat. The faster
+the molecules move, or vibrate, the hotter the food becomes.
+
+Every microwave has a user interface on the front which allows the end user to set
+(1) the strength of the electromagnetic waves (setting the temperature of the food),
+and (2) the duration during which s/he wants the waves to be generated, which also impacts
+the degree to which the food will be cooked. A typical microwave oven ramps up the 
+electricity from a 120-volt wall outlet to an incredible 3,000 volts or more, in the form
+of radio waves. 
+
+What creates the heat?  The electrical energy passes to a component inside the casing called a
+magnetron, which "magnifies" the electrical power available converting it into microwaves (closest
+to radio waves on the spectrum.)  The energy causes water molecules - especially - and other
+polar molecules to oscillate, producing heating effect.
+in foodstuff, creating heat.  This heat continues to grow as more molecules are disrupted and 
+electrons move.
+
+Choosing a high power level will make the food hotter, as will extending the time during
+which the microwaves are generated.  Once the user has (1) placed the food inside
+the microwave, (2) closed the microwave door (safety), (3) selected the power level 
+and duration, s/he presses an "on" button to initiate microwave function.  Once
+the period is over (signified usually by a buzzer connected to the timer in the 
+machine), the door can be safely opened and the food removed (with care - it's hot!).
+
+There is a main component called a magnetron which is in the microwave casing that generates
+microwaves, using electricity flowing to the microwave via a plug into a regular
+household electricity outlet.  The magnetron changes electricity into radio waves,
+and generates these, after instructed by the user.  The waves penetrate and bounce
+off the food, picking up energy as they move about the interior of the metal box
+wherein the food is placed.  The waves also bounce off the sides of the microwave, in which
+are embedded small metal screen (in the glass front), which helps amplify the radio waves
+before reflecting them back.  To assist in even distribution of energy, there is often a 
+lazy Susan-type turntable on which the food is placed, and the food is rotated during
+the period when the radio waves are being generated and are penetrating food.
